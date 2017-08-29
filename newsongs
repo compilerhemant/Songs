@@ -1,0 +1,6 @@
+alias newsongs="mpv \
+`# Tan tana tan` \
+--\{ \"http://dw16.musicfunda.biz/2017/Judwaa2-2017/[SongsPK.info]%20Chalti%20Hai%20Kya%209%20Se%2012%20-%20320kbps.mp3\" --\} \
+`# Hawa Hawa` \
+--\{ \"http://dw16.musicfunda.biz/2017/Mubarakan-2017/[SongsPK.info]%2005%20-%20Mubarakan%20-%20Hawa%20Hawa.mp3\" --\} \
+--no-video --shuffle"
