@@ -3,4 +3,8 @@ alias newsongs="mpv \
 --\{ \"http://dw16.musicfunda.biz/2017/Judwaa2-2017/[SongsPK.info]%20Chalti%20Hai%20Kya%209%20Se%2012%20-%20320kbps.mp3\" --\} \
 `# Hawa Hawa` \
 --\{ \"http://dw16.musicfunda.biz/2017/Mubarakan-2017/[SongsPK.info]%2005%20-%20Mubarakan%20-%20Hawa%20Hawa.mp3\" --\} \
+`# Rashqe Qamar` \
+--\{ \"https://www.youtube.com/watch?v=B0QEU9gxapk\" --\} \
+`# Sochta hu` \
+--\{ \"https://www.youtube.com/watch?v=aR7MPZzF6xc\" --\} \
 --no-video --shuffle"
